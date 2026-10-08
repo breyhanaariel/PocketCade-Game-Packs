@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "lockbox",
+  "title": "Lockbox",
+  "version": "1.0.0",
+  "engineFamily": "puzzle",
+  "distribution": "downloadable",
+  "seed": 27,
+  "rules": {
+    "rounds": {
+      "easy": 4,
+      "normal": 8,
+      "hard": 12
+    },
+    "variant": 3
+  }
+}
