@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "bunny-bounce",
+  "title": "Bunny Bounce",
+  "version": "1.0.0",
+  "engineFamily": "runnerPlatform",
+  "distribution": "downloadable",
+  "seed": 7,
+  "rules": {
+    "rounds": {
+      "easy": 4,
+      "normal": 8,
+      "hard": 12
+    },
+    "variant": 3
+  }
+}
