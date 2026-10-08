@@ -4,272 +4,272 @@
     {
       "id": "bubble-popper",
       "title": "Bubble Popper",
-      "version": "2.0.0",
+      "version": "0.7.0-dev.1",
       "engineFamily": "targetTap",
       "distribution": "bundled",
       "url": "https://raw.githubusercontent.com/breyhanaariel/PocketCade-Game-Packs/main/games/bubble-popper/package.json",
-      "sha256": "61248b5b387fa9426250cd4fffb2ea4fe391786be3aff178bdc6fd5cbcba1ea1"
+      "sha256": "6379c4dc2e1c83de75078d5163184925785c4727858bf9000b5c71a915410416"
     },
     {
       "id": "memory-match",
       "title": "Memory Match",
-      "version": "2.0.0",
+      "version": "0.7.0-dev.1",
       "engineFamily": "matching",
       "distribution": "bundled",
       "url": "https://raw.githubusercontent.com/breyhanaariel/PocketCade-Game-Packs/main/games/memory-match/package.json",
-      "sha256": "85dafb050240c9964d08a4b1b114f48fd919259fd9a277ae8d558caa55cf522b"
+      "sha256": "1e52db1c395198a4624946e22d227dec1adba7d040d46ef566913c6dd83644e4"
     },
     {
       "id": "swipe-to-survive",
       "title": "Swipe to Survive",
-      "version": "2.0.0",
+      "version": "0.7.0-dev.1",
       "engineFamily": "runnerPlatform",
       "distribution": "bundled",
       "url": "https://raw.githubusercontent.com/breyhanaariel/PocketCade-Game-Packs/main/games/swipe-to-survive/package.json",
-      "sha256": "65f2077884dd36e161ccde1e94309d371fdb076488ac17c7d7c95dd84c42f6e6"
+      "sha256": "7438b155b17b714a527d98573731c42c79a122db5721b5e838af294b8caecac4"
     },
     {
       "id": "stack-tower",
       "title": "Stack Tower",
-      "version": "2.0.0",
+      "version": "0.7.0-dev.1",
       "engineFamily": "stackPhysics",
       "distribution": "bundled",
       "url": "https://raw.githubusercontent.com/breyhanaariel/PocketCade-Game-Packs/main/games/stack-tower/package.json",
-      "sha256": "b311b25dd84aa94bdbdee9c16b77b88ef66f02534f577606a1eec0558590cbf7"
+      "sha256": "ebb3faf8ee0a66e5ae8b28a2e6408b8ce8ea3e9482c8678f3b5de46fedbb680e"
     },
     {
       "id": "color-lane",
       "title": "Color Lane",
-      "version": "2.0.0",
+      "version": "0.7.0-dev.1",
       "engineFamily": "lane",
       "distribution": "bundled",
       "url": "https://raw.githubusercontent.com/breyhanaariel/PocketCade-Game-Packs/main/games/color-lane/package.json",
-      "sha256": "0ce7cdb2c8bcfd233c86b065f6814678bd130c8fc005114fd65369f4c6095a9a"
+      "sha256": "4dd574fcc3534850f799d105684cd331bd051decf96ce74261aa368843061e5d"
     },
     {
       "id": "star-sprout",
       "title": "Star Sprout",
-      "version": "2.0.0",
+      "version": "0.7.0-dev.1",
       "engineFamily": "catchDodge",
       "distribution": "downloadable",
       "url": "https://raw.githubusercontent.com/breyhanaariel/PocketCade-Game-Packs/main/games/star-sprout/package.json",
-      "sha256": "905888a5a25cb7f5cd115d35ecc31b8c4ec9db9551cbd4018be184d9a0379ce7"
+      "sha256": "20ef965d31a5e932787fa29f01e978ae2566e614b89fe21b8c03c9b93eb74197"
     },
     {
       "id": "bunny-bounce",
       "title": "Bunny Bounce",
-      "version": "2.0.0",
+      "version": "0.7.0-dev.1",
       "engineFamily": "runnerPlatform",
       "distribution": "downloadable",
       "url": "https://raw.githubusercontent.com/breyhanaariel/PocketCade-Game-Packs/main/games/bunny-bounce/package.json",
-      "sha256": "4f5027ecf6eff90ca5de15cd49967b4c72c65c1d099bf1baf04d485ab854fa27"
+      "sha256": "c9dad8cbc11dbab0242f4d9e5a75ae87b5d629c4391adbf347310b8040e37cee"
     },
     {
       "id": "garden-grid",
       "title": "Garden Grid",
-      "version": "2.0.0",
+      "version": "0.7.0-dev.1",
       "engineFamily": "grid",
       "distribution": "downloadable",
       "url": "https://raw.githubusercontent.com/breyhanaariel/PocketCade-Game-Packs/main/games/garden-grid/package.json",
-      "sha256": "3caacf5eee6988e3c1483426cfa2326bc95ee13b4746663db8155b4ccc671f36"
+      "sha256": "9bdf7526433182be407303dad437bdc32f5447bc5be2e1ef07780042f766a5ee"
     },
     {
       "id": "pair-parade",
       "title": "Pair Parade",
-      "version": "2.0.0",
+      "version": "0.7.0-dev.1",
       "engineFamily": "matching",
       "distribution": "downloadable",
       "url": "https://raw.githubusercontent.com/breyhanaariel/PocketCade-Game-Packs/main/games/pair-parade/package.json",
-      "sha256": "09f982630b7093c8543947a5e69660bf6de2db39e6b50515317e71489d35bc92"
+      "sha256": "193de776e5b7d54a27956f173207ce6568b1a45d1bebd0676e097611a75d57da"
     },
     {
       "id": "pancake-pile",
       "title": "Pancake Pile",
-      "version": "2.0.0",
+      "version": "0.7.0-dev.1",
       "engineFamily": "stackPhysics",
       "distribution": "downloadable",
       "url": "https://raw.githubusercontent.com/breyhanaariel/PocketCade-Game-Packs/main/games/pancake-pile/package.json",
-      "sha256": "61a056e325c7c5b7fd45db53fc56a52fc05aad99548e016f394d5fcd920e00c0"
+      "sha256": "33bc9ebf1f3056f1e46a09984eb98aea60173d4b115cc7f75111ede652aff0dc"
     },
     {
       "id": "lane-lanterns",
       "title": "Lane Lanterns",
-      "version": "2.0.0",
+      "version": "0.7.0-dev.1",
       "engineFamily": "lane",
       "distribution": "downloadable",
       "url": "https://raw.githubusercontent.com/breyhanaariel/PocketCade-Game-Packs/main/games/lane-lanterns/package.json",
-      "sha256": "c7d65710aa28ef586eddd9e1c81f3442d3864f488558b81be92f33b76e70c186"
+      "sha256": "dfa182a15eec761d8da337530f454ef834f8e6694a4f8b2335f5d4a275c6229c"
     },
     {
       "id": "tiny-tactics",
       "title": "Tiny Tactics",
-      "version": "2.0.0",
+      "version": "0.7.0-dev.1",
       "engineFamily": "boardTurn",
       "distribution": "downloadable",
       "url": "https://raw.githubusercontent.com/breyhanaariel/PocketCade-Game-Packs/main/games/tiny-tactics/package.json",
-      "sha256": "a90a875843c10684a7e8b08af16a885d59d42d0a11a30d6898d08cc91dd4b1aa"
+      "sha256": "150fd59b1c4fbe7f6ddf8afd6341f3b884ae8a7f3155a05a95be92d1f83efeaa"
     },
     {
       "id": "card-cafe",
       "title": "Card Cafe",
-      "version": "2.0.0",
+      "version": "0.7.0-dev.1",
       "engineFamily": "card",
       "distribution": "downloadable",
       "url": "https://raw.githubusercontent.com/breyhanaariel/PocketCade-Game-Packs/main/games/card-cafe/package.json",
-      "sha256": "d2eb5c4248e68cc246a3f6872d73930bd33aef5a2e8b2860c9dcc9dc8f069202"
+      "sha256": "c95033406c6860ecd7285346fbac08c35abd98b7049bbc0603daec276307fd90"
     },
     {
       "id": "button-box",
       "title": "Button Box",
-      "version": "2.0.0",
+      "version": "0.7.0-dev.1",
       "engineFamily": "puzzle",
       "distribution": "downloadable",
       "url": "https://raw.githubusercontent.com/breyhanaariel/PocketCade-Game-Packs/main/games/button-box/package.json",
-      "sha256": "6d772151582c3247af5880da5070d9f6f7f135c881db07a57ce5e7e376534455"
+      "sha256": "3abca5221025673e8e4b9e940a461329abe63933e2fc16d6e36f94641446614a"
     },
     {
       "id": "moonshot",
       "title": "Moonshot",
-      "version": "2.0.0",
+      "version": "0.7.0-dev.1",
       "engineFamily": "projectileShooter",
       "distribution": "downloadable",
       "url": "https://raw.githubusercontent.com/breyhanaariel/PocketCade-Game-Packs/main/games/moonshot/package.json",
-      "sha256": "260f7c520e9425950cd0fc611045fcc678534c2bdba172285af11b7bb6aff607"
+      "sha256": "efffabe5511669c8f99be839cef7350ff70257381b473d8ab50fecfcc9bc5437"
     },
     {
       "id": "beat-burrow",
       "title": "Beat Burrow",
-      "version": "2.0.0",
+      "version": "0.7.0-dev.1",
       "engineFamily": "rhythmTiming",
       "distribution": "downloadable",
       "url": "https://raw.githubusercontent.com/breyhanaariel/PocketCade-Game-Packs/main/games/beat-burrow/package.json",
-      "sha256": "f6b56d2de966276caf51aebcae3945b06ad728ddadca5102638d5cf263dd0224"
+      "sha256": "e890368f47a672556ea0a6c16c2f6a274afd2de0f2bdefbf3db176e309fec219"
     },
     {
       "id": "word-warren",
       "title": "Word Warren",
-      "version": "2.0.0",
+      "version": "0.7.0-dev.1",
       "engineFamily": "wordTrivia",
       "distribution": "downloadable",
       "url": "https://raw.githubusercontent.com/breyhanaariel/PocketCade-Game-Packs/main/games/word-warren/package.json",
-      "sha256": "0322053a113170ff20fa9341888afc4b589535da9a2304a6efcff77f74b55ada"
+      "sha256": "18de02bc7b9bb93310cdf31d5331466d2e0da76f910cf60cb5dc728fd579e485"
     },
     {
       "id": "snack-sort",
       "title": "Snack Sort",
-      "version": "2.0.0",
+      "version": "0.7.0-dev.1",
       "engineFamily": "sortingManagement",
       "distribution": "downloadable",
       "url": "https://raw.githubusercontent.com/breyhanaariel/PocketCade-Game-Packs/main/games/snack-sort/package.json",
-      "sha256": "10e7ef0ec6a0a02a1abc19bcc6370a8450b540c15e91de2c65938bd3be0faab5"
+      "sha256": "f862f433754919f994d66c74764353af1b079e2cd1da1e6751550f08eae7a9a1"
     },
     {
       "id": "firefly-frenzy",
       "title": "Firefly Frenzy",
-      "version": "2.0.0",
+      "version": "0.7.0-dev.1",
       "engineFamily": "targetTap",
       "distribution": "downloadable",
       "url": "https://raw.githubusercontent.com/breyhanaariel/PocketCade-Game-Packs/main/games/firefly-frenzy/package.json",
-      "sha256": "9729c6547759b091373f869bcd3c0b4834bf867f6e6b265acebedae1b2e91388"
+      "sha256": "0e93577a52fb14c373485e55f4118afe551d16272dbc19b631171c82d510d914"
     },
     {
       "id": "cloud-catcher",
       "title": "Cloud Catcher",
-      "version": "2.0.0",
+      "version": "0.7.0-dev.1",
       "engineFamily": "catchDodge",
       "distribution": "downloadable",
       "url": "https://raw.githubusercontent.com/breyhanaariel/PocketCade-Game-Packs/main/games/cloud-catcher/package.json",
-      "sha256": "a9723f4b3ccfda9acbdfab107e1ce9d05672f613a00888699699266eaf113ed6"
+      "sha256": "95212d7035a1c51307e16f42e490a1cef3b516fef56657ba695131147e98567f"
     },
     {
       "id": "rainbow-road",
       "title": "Rainbow Road",
-      "version": "2.0.0",
+      "version": "0.7.0-dev.1",
       "engineFamily": "lane",
       "distribution": "downloadable",
       "url": "https://raw.githubusercontent.com/breyhanaariel/PocketCade-Game-Packs/main/games/rainbow-road/package.json",
-      "sha256": "915a2f71b9df53f4ae9caa4d03f69900f26e26991832b36519e7946be530fc33"
+      "sha256": "54fa6aeba14e665e55477475a1dcc1890dfb17de364cdf4d98ed41d57c8e28b0"
     },
     {
       "id": "hedge-hop",
       "title": "Hedge Hop",
-      "version": "2.0.0",
+      "version": "0.7.0-dev.1",
       "engineFamily": "grid",
       "distribution": "downloadable",
       "url": "https://raw.githubusercontent.com/breyhanaariel/PocketCade-Game-Packs/main/games/hedge-hop/package.json",
-      "sha256": "b9c79fdcf132a86f3852e9926426d0aa82d762638d526cc8a47e0feff2cc0b02"
+      "sha256": "45bf59e54b99356c2ce78d0862f97fa520a88381233fb83b63067d43e3fc93e0"
     },
     {
       "id": "monster-memory",
       "title": "Monster Memory",
-      "version": "2.0.0",
+      "version": "0.7.0-dev.1",
       "engineFamily": "matching",
       "distribution": "downloadable",
       "url": "https://raw.githubusercontent.com/breyhanaariel/PocketCade-Game-Packs/main/games/monster-memory/package.json",
-      "sha256": "9db20262124c4d4b6695a5640286adce8c3972f7594fb4d6c3f0f6d7249fe460"
+      "sha256": "33575eac9d8ab585df51c738f6dd9aaa61e06d5e6b4cbf53aa2f313e212e5edc"
     },
     {
       "id": "cake-stack",
       "title": "Cake Stack",
-      "version": "2.0.0",
+      "version": "0.7.0-dev.1",
       "engineFamily": "stackPhysics",
       "distribution": "downloadable",
       "url": "https://raw.githubusercontent.com/breyhanaariel/PocketCade-Game-Packs/main/games/cake-stack/package.json",
-      "sha256": "8480f40dead4bf4e8f05e0c6d5b81b3ef3de603bb6df8376bb9bb28c89c3003b"
+      "sha256": "d1acda3c35a739ee44581a6304b253aa479ba64f624ee416f3bff0446cee4a52"
     },
     {
       "id": "pocket-pawns",
       "title": "Pocket Pawns",
-      "version": "2.0.0",
+      "version": "0.7.0-dev.1",
       "engineFamily": "boardTurn",
       "distribution": "downloadable",
       "url": "https://raw.githubusercontent.com/breyhanaariel/PocketCade-Game-Packs/main/games/pocket-pawns/package.json",
-      "sha256": "89e4518f4c887e6f7d064463047158b7a4bb434b0c754c9a5a7e4d74a5fa170a"
+      "sha256": "41f892703732755392f25097f9e8c5ab035ba39a0a48f65bc0deb8e991d98e6f"
     },
     {
       "id": "spell-deck",
       "title": "Spell Deck",
-      "version": "2.0.0",
+      "version": "0.7.0-dev.1",
       "engineFamily": "card",
       "distribution": "downloadable",
       "url": "https://raw.githubusercontent.com/breyhanaariel/PocketCade-Game-Packs/main/games/spell-deck/package.json",
-      "sha256": "41c6b690f5ceb2acb0b4f162ce0614629fb7bbf5edad8011014b82f6d24cdcfb"
+      "sha256": "3401b08a63cbeff3708e61bb166b19c8ac2dcf25737f14df4f920aef5c08e2f5"
     },
     {
       "id": "lockbox",
       "title": "Lockbox",
-      "version": "2.0.0",
+      "version": "0.7.0-dev.1",
       "engineFamily": "puzzle",
       "distribution": "downloadable",
       "url": "https://raw.githubusercontent.com/breyhanaariel/PocketCade-Game-Packs/main/games/lockbox/package.json",
-      "sha256": "8cd344806a2f35d4b7d3cb22d28bb7e5e29f977ae8b7b4108165fe645d9b44e1"
+      "sha256": "4a64c86abae95db3d6e17951f81eed23d99073b8006efacafbbfcfdcbf86216b"
     },
     {
       "id": "comet-dash",
       "title": "Comet Dash",
-      "version": "2.0.0",
+      "version": "0.7.0-dev.1",
       "engineFamily": "runnerPlatform",
       "distribution": "downloadable",
       "url": "https://raw.githubusercontent.com/breyhanaariel/PocketCade-Game-Packs/main/games/comet-dash/package.json",
-      "sha256": "146c9be90d3c365dc84c823cb1aff33fcaab337364a503dbce697aad34bd42ee"
+      "sha256": "411aa5d0d59c0c4bc35c9c6d9a55d1f79d01ad8bb908eef4308dfc596ecc5b54"
     },
     {
       "id": "berry-blaster",
       "title": "Berry Blaster",
-      "version": "2.0.0",
+      "version": "0.7.0-dev.1",
       "engineFamily": "projectileShooter",
       "distribution": "downloadable",
       "url": "https://raw.githubusercontent.com/breyhanaariel/PocketCade-Game-Packs/main/games/berry-blaster/package.json",
-      "sha256": "35550fc1742cc83b44158a6b5c7d5b3bd87431ac25c7c2d609fecb52147e975d"
+      "sha256": "47eaabb5ca6e525efab9b720488147bc05db46f193c65ecc34424c757cd2ff16"
     },
     {
       "id": "bunny-beats",
       "title": "Bunny Beats",
-      "version": "2.0.0",
+      "version": "0.7.0-dev.1",
       "engineFamily": "rhythmTiming",
       "distribution": "downloadable",
       "url": "https://raw.githubusercontent.com/breyhanaariel/PocketCade-Game-Packs/main/games/bunny-beats/package.json",
-      "sha256": "5dc324fd607f807ee94b16aa4238705e362064f9f20f382be22c9606d0582a8e"
+      "sha256": "29b0ea1f32fa7135b12556421a3845a3d8009e8f11c9ff297a603b78dd58f2d3"
     }
   ]
 }
