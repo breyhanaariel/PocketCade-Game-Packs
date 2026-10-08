@@ -1,17 +1,29 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "lane-lanterns",
   "title": "Lane Lanterns",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "engineFamily": "lane",
   "distribution": "downloadable",
   "seed": 11,
   "rules": {
-    "rounds": {
-      "easy": 4,
-      "normal": 8,
-      "hard": 12
-    },
-    "variant": 3
+    "targetScore": 70,
+    "lives": 4,
+    "maxMoves": 33,
+    "collectPoints": 14,
+    "tickMs": 1000,
+    "lanes": 3,
+    "hazardEvery": 5,
+    "distancePoints": 7
+  },
+  "presentation": {
+    "player": "bunny",
+    "collectible": "lantern",
+    "hazard": "storm",
+    "instruction": "Swipe between lanes to collect safely."
+  },
+  "progression": {
+    "starsForClear": 3,
+    "achievement": "lane-lanterns-first-clear"
   }
 }
