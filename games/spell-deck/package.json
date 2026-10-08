@@ -1,17 +1,33 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "spell-deck",
   "title": "Spell Deck",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "engineFamily": "card",
   "distribution": "downloadable",
   "seed": 26,
   "rules": {
-    "rounds": {
-      "easy": 4,
-      "normal": 8,
-      "hard": 12
-    },
-    "variant": 2
+    "targetScore": 70,
+    "lives": 3,
+    "maxMoves": 30,
+    "collectPoints": 14,
+    "cards": [
+      "carrot",
+      "star",
+      "moon",
+      "bunny",
+      "berry",
+      "cloud"
+    ]
+  },
+  "presentation": {
+    "player": "bunny",
+    "collectible": "card",
+    "hazard": "storm",
+    "instruction": "Draw and build your hand."
+  },
+  "progression": {
+    "starsForClear": 3,
+    "achievement": "spell-deck-first-clear"
   }
 }
