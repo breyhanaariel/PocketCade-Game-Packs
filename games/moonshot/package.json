@@ -1,17 +1,26 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "moonshot",
   "title": "Moonshot",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "engineFamily": "projectileShooter",
   "distribution": "downloadable",
   "seed": 15,
   "rules": {
-    "rounds": {
-      "easy": 4,
-      "normal": 8,
-      "hard": 12
-    },
-    "variant": 3
+    "targetScore": 60,
+    "lives": 4,
+    "maxMoves": 33,
+    "collectPoints": 10,
+    "health": 80
+  },
+  "presentation": {
+    "player": "bunny",
+    "collectible": "target",
+    "hazard": "comet",
+    "instruction": "Fire at the highlighted target."
+  },
+  "progression": {
+    "starsForClear": 3,
+    "achievement": "moonshot-first-clear"
   }
 }
