@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "pocket-pawns",
+  "title": "Pocket Pawns",
+  "version": "1.0.0",
+  "engineFamily": "boardTurn",
+  "distribution": "downloadable",
+  "seed": 25,
+  "rules": {
+    "rounds": {
+      "easy": 4,
+      "normal": 8,
+      "hard": 12
+    },
+    "variant": 1
+  }
+}
