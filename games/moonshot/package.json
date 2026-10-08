@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "moonshot",
+  "title": "Moonshot",
+  "version": "1.0.0",
+  "engineFamily": "projectileShooter",
+  "distribution": "downloadable",
+  "seed": 15,
+  "rules": {
+    "rounds": {
+      "easy": 4,
+      "normal": 8,
+      "hard": 12
+    },
+    "variant": 3
+  }
+}
