@@ -1,17 +1,29 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "bunny-bounce",
   "title": "Bunny Bounce",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "engineFamily": "runnerPlatform",
   "distribution": "downloadable",
   "seed": 7,
   "rules": {
-    "rounds": {
-      "easy": 4,
-      "normal": 8,
-      "hard": 12
-    },
-    "variant": 3
+    "targetScore": 80,
+    "lives": 4,
+    "maxMoves": 33,
+    "collectPoints": 12,
+    "tickMs": 1000,
+    "lanes": 3,
+    "hazardEvery": 4,
+    "distancePoints": 6
+  },
+  "presentation": {
+    "player": "bunny",
+    "collectible": "star",
+    "hazard": "storm",
+    "instruction": "Keep moving and survive the obstacle rhythm."
+  },
+  "progression": {
+    "starsForClear": 3,
+    "achievement": "bunny-bounce-first-clear"
   }
 }
