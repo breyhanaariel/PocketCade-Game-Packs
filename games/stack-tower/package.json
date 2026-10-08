@@ -2,7 +2,7 @@
   "schemaVersion": 2,
   "id": "stack-tower",
   "title": "Stack Tower",
-  "version": "2.0.0",
+  "version": "0.7.0-dev.1",
   "engineFamily": "stackPhysics",
   "distribution": "bundled",
   "seed": 4,
