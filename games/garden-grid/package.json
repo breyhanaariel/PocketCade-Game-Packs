@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "garden-grid",
+  "title": "Garden Grid",
+  "version": "1.0.0",
+  "engineFamily": "grid",
+  "distribution": "downloadable",
+  "seed": 8,
+  "rules": {
+    "rounds": {
+      "easy": 4,
+      "normal": 8,
+      "hard": 12
+    },
+    "variant": 4
+  }
+}
