@@ -1,17 +1,29 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "rainbow-road",
   "title": "Rainbow Road",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "engineFamily": "lane",
   "distribution": "downloadable",
   "seed": 21,
   "rules": {
-    "rounds": {
-      "easy": 4,
-      "normal": 8,
-      "hard": 12
-    },
-    "variant": 1
+    "targetScore": 70,
+    "lives": 4,
+    "maxMoves": 27,
+    "collectPoints": 10,
+    "tickMs": 800,
+    "lanes": 3,
+    "hazardEvery": 3,
+    "distancePoints": 5
+  },
+  "presentation": {
+    "player": "bunny",
+    "collectible": "star",
+    "hazard": "storm",
+    "instruction": "Swipe between lanes to collect safely."
+  },
+  "progression": {
+    "starsForClear": 3,
+    "achievement": "rainbow-road-first-clear"
   }
 }
