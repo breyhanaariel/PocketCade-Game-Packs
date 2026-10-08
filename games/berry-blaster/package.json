@@ -2,7 +2,7 @@
   "schemaVersion": 2,
   "id": "berry-blaster",
   "title": "Berry Blaster",
-  "version": "2.0.0",
+  "version": "0.7.0-dev.1",
   "engineFamily": "projectileShooter",
   "distribution": "downloadable",
   "seed": 29,
