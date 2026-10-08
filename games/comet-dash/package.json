@@ -2,7 +2,7 @@
   "schemaVersion": 2,
   "id": "comet-dash",
   "title": "Comet Dash",
-  "version": "2.0.0",
+  "version": "0.7.0-dev.1",
   "engineFamily": "runnerPlatform",
   "distribution": "downloadable",
   "seed": 28,
