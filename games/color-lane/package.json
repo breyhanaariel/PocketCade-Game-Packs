@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "color-lane",
+  "title": "Color Lane",
+  "version": "1.0.0",
+  "engineFamily": "lane",
+  "distribution": "bundled",
+  "seed": 5,
+  "rules": {
+    "rounds": {
+      "easy": 4,
+      "normal": 8,
+      "hard": 12
+    },
+    "variant": 1
+  }
+}
