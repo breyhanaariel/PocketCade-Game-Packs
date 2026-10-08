@@ -1,17 +1,27 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "garden-grid",
   "title": "Garden Grid",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "engineFamily": "grid",
   "distribution": "downloadable",
   "seed": 8,
   "rules": {
-    "rounds": {
-      "easy": 4,
-      "normal": 8,
-      "hard": 12
-    },
-    "variant": 4
+    "targetScore": 90,
+    "lives": 3,
+    "maxMoves": 24,
+    "collectPoints": 14,
+    "width": 3,
+    "height": 3
+  },
+  "presentation": {
+    "player": "sprout",
+    "collectible": "star",
+    "hazard": "storm",
+    "instruction": "Find the highlighted safe tile."
+  },
+  "progression": {
+    "starsForClear": 3,
+    "achievement": "garden-grid-first-clear"
   }
 }
