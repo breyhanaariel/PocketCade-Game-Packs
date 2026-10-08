@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "cozy-counter",
+  "title": "Cozy Counter",
+  "version": "1.0.0",
+  "engineFamily": "sortingManagement",
+  "distribution": "downloadable",
+  "seed": 30,
+  "rules": {
+    "rounds": {
+      "easy": 4,
+      "normal": 8,
+      "hard": 12
+    },
+    "variant": 3
+  }
+}
