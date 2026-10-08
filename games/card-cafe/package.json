@@ -2,7 +2,7 @@
   "schemaVersion": 2,
   "id": "card-cafe",
   "title": "Card Cafe",
-  "version": "2.0.0",
+  "version": "0.7.0-dev.1",
   "engineFamily": "card",
   "distribution": "downloadable",
   "seed": 13,
