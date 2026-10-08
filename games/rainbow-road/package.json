@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "rainbow-road",
+  "title": "Rainbow Road",
+  "version": "1.0.0",
+  "engineFamily": "lane",
+  "distribution": "downloadable",
+  "seed": 21,
+  "rules": {
+    "rounds": {
+      "easy": 4,
+      "normal": 8,
+      "hard": 12
+    },
+    "variant": 1
+  }
+}
