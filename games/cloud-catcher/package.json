@@ -1,17 +1,29 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "cloud-catcher",
   "title": "Cloud Catcher",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "engineFamily": "catchDodge",
   "distribution": "downloadable",
   "seed": 20,
   "rules": {
-    "rounds": {
-      "easy": 4,
-      "normal": 8,
-      "hard": 12
-    },
-    "variant": 4
+    "targetScore": 60,
+    "lives": 3,
+    "maxMoves": 24,
+    "collectPoints": 14,
+    "tickMs": 700,
+    "lanes": 3,
+    "hazardEvery": 5,
+    "distancePoints": 7
+  },
+  "presentation": {
+    "player": "bunny",
+    "collectible": "cloud",
+    "hazard": "storm",
+    "instruction": "Swipe into collectibles and away from hazards."
+  },
+  "progression": {
+    "starsForClear": 3,
+    "achievement": "cloud-catcher-first-clear"
   }
 }
