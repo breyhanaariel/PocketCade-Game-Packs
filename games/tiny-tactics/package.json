@@ -2,7 +2,7 @@
   "schemaVersion": 2,
   "id": "tiny-tactics",
   "title": "Tiny Tactics",
-  "version": "2.0.0",
+  "version": "0.7.0-dev.1",
   "engineFamily": "boardTurn",
   "distribution": "downloadable",
   "seed": 12,
