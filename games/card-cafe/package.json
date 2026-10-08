@@ -1,17 +1,33 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "card-cafe",
   "title": "Card Cafe",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "engineFamily": "card",
   "distribution": "downloadable",
   "seed": 13,
   "rules": {
-    "rounds": {
-      "easy": 4,
-      "normal": 8,
-      "hard": 12
-    },
-    "variant": 1
+    "targetScore": 90,
+    "lives": 4,
+    "maxMoves": 27,
+    "collectPoints": 12,
+    "cards": [
+      "carrot",
+      "star",
+      "moon",
+      "bunny",
+      "berry",
+      "cloud"
+    ]
+  },
+  "presentation": {
+    "player": "bunny",
+    "collectible": "card",
+    "hazard": "storm",
+    "instruction": "Draw and build your hand."
+  },
+  "progression": {
+    "starsForClear": 3,
+    "achievement": "card-cafe-first-clear"
   }
 }
