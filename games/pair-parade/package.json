@@ -2,7 +2,7 @@
   "schemaVersion": 2,
   "id": "pair-parade",
   "title": "Pair Parade",
-  "version": "2.0.0",
+  "version": "0.7.0-dev.1",
   "engineFamily": "matching",
   "distribution": "downloadable",
   "seed": 9,
