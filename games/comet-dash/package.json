@@ -1,17 +1,29 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "comet-dash",
   "title": "Comet Dash",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "engineFamily": "runnerPlatform",
   "distribution": "downloadable",
   "seed": 28,
   "rules": {
-    "rounds": {
-      "easy": 4,
-      "normal": 8,
-      "hard": 12
-    },
-    "variant": 4
+    "targetScore": 90,
+    "lives": 3,
+    "maxMoves": 24,
+    "collectPoints": 12,
+    "tickMs": 700,
+    "lanes": 3,
+    "hazardEvery": 4,
+    "distancePoints": 6
+  },
+  "presentation": {
+    "player": "bunny",
+    "collectible": "comet",
+    "hazard": "storm",
+    "instruction": "Keep moving and survive the obstacle rhythm."
+  },
+  "progression": {
+    "starsForClear": 3,
+    "achievement": "comet-dash-first-clear"
   }
 }
