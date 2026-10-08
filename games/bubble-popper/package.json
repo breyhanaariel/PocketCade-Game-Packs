@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "bubble-popper",
+  "title": "Bubble Popper",
+  "version": "1.0.0",
+  "engineFamily": "targetTap",
+  "distribution": "bundled",
+  "seed": 1,
+  "rules": {
+    "rounds": {
+      "easy": 4,
+      "normal": 8,
+      "hard": 12
+    },
+    "variant": 1
+  }
+}
