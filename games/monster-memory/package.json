@@ -1,17 +1,25 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "monster-memory",
   "title": "Monster Memory",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "engineFamily": "matching",
   "distribution": "downloadable",
   "seed": 23,
   "rules": {
-    "rounds": {
-      "easy": 4,
-      "normal": 8,
-      "hard": 12
-    },
-    "variant": 3
+    "targetScore": 90,
+    "lives": 4,
+    "maxMoves": 33,
+    "collectPoints": 14
+  },
+  "presentation": {
+    "player": "monster",
+    "collectible": "monster",
+    "hazard": "storm",
+    "instruction": "Choose matching parade tiles."
+  },
+  "progression": {
+    "starsForClear": 3,
+    "achievement": "monster-memory-first-clear"
   }
 }
