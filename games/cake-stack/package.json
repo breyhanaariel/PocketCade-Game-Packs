@@ -1,17 +1,26 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "cake-stack",
   "title": "Cake Stack",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "engineFamily": "stackPhysics",
   "distribution": "downloadable",
   "seed": 24,
   "rules": {
-    "rounds": {
-      "easy": 4,
-      "normal": 8,
-      "hard": 12
-    },
-    "variant": 4
+    "targetScore": 100,
+    "lives": 3,
+    "maxMoves": 24,
+    "collectPoints": 10,
+    "tolerance": 0.18
+  },
+  "presentation": {
+    "player": "bunny",
+    "collectible": "cake",
+    "hazard": "storm",
+    "instruction": "Place each layer close to center."
+  },
+  "progression": {
+    "starsForClear": 3,
+    "achievement": "cake-stack-first-clear"
   }
 }
