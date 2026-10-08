@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "word-warren",
+  "title": "Word Warren",
+  "version": "1.0.0",
+  "engineFamily": "wordTrivia",
+  "distribution": "downloadable",
+  "seed": 17,
+  "rules": {
+    "rounds": {
+      "easy": 4,
+      "normal": 8,
+      "hard": 12
+    },
+    "variant": 1
+  }
+}
