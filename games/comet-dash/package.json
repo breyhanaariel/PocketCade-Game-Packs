@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "comet-dash",
+  "title": "Comet Dash",
+  "version": "1.0.0",
+  "engineFamily": "runnerPlatform",
+  "distribution": "downloadable",
+  "seed": 28,
+  "rules": {
+    "rounds": {
+      "easy": 4,
+      "normal": 8,
+      "hard": 12
+    },
+    "variant": 4
+  }
+}
