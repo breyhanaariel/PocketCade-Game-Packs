@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "bunny-beats",
+  "title": "Bunny Beats",
+  "version": "1.0.0",
+  "engineFamily": "rhythmTiming",
+  "distribution": "downloadable",
+  "seed": 30,
+  "rules": {
+    "rounds": {
+      "easy": 4,
+      "normal": 8,
+      "hard": 12
+    },
+    "variant": 2
+  }
+}
