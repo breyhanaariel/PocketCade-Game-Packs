@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "button-box",
+  "title": "Button Box",
+  "version": "1.0.0",
+  "engineFamily": "puzzle",
+  "distribution": "downloadable",
+  "seed": 14,
+  "rules": {
+    "rounds": {
+      "easy": 4,
+      "normal": 8,
+      "hard": 12
+    },
+    "variant": 2
+  }
+}
