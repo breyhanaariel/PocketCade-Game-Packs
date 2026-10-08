@@ -1,17 +1,26 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "snack-sort",
   "title": "Snack Sort",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "engineFamily": "sortingManagement",
   "distribution": "downloadable",
   "seed": 18,
   "rules": {
-    "rounds": {
-      "easy": 4,
-      "normal": 8,
-      "hard": 12
-    },
-    "variant": 2
+    "targetScore": 90,
+    "lives": 3,
+    "maxMoves": 30,
+    "collectPoints": 10,
+    "capacity": 4
+  },
+  "presentation": {
+    "player": "bunny",
+    "collectible": "snack",
+    "hazard": "storm",
+    "instruction": "Serve the highlighted order first."
+  },
+  "progression": {
+    "starsForClear": 3,
+    "achievement": "snack-sort-first-clear"
   }
 }
