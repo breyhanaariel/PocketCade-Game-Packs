@@ -1,17 +1,25 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "firefly-frenzy",
   "title": "Firefly Frenzy",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "engineFamily": "targetTap",
   "distribution": "downloadable",
   "seed": 19,
   "rules": {
-    "rounds": {
-      "easy": 4,
-      "normal": 8,
-      "hard": 12
-    },
-    "variant": 3
+    "targetScore": 100,
+    "lives": 4,
+    "maxMoves": 33,
+    "collectPoints": 12
+  },
+  "presentation": {
+    "player": "bunny",
+    "collectible": "firefly",
+    "hazard": "moth",
+    "instruction": "Tap the bright targets. Avoid the hazard."
+  },
+  "progression": {
+    "starsForClear": 3,
+    "achievement": "firefly-frenzy-first-clear"
   }
 }
