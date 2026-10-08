@@ -1,17 +1,29 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "color-lane",
   "title": "Color Lane",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "engineFamily": "lane",
   "distribution": "bundled",
   "seed": 5,
   "rules": {
-    "rounds": {
-      "easy": 4,
-      "normal": 8,
-      "hard": 12
-    },
-    "variant": 1
+    "targetScore": 60,
+    "lives": 4,
+    "maxMoves": 27,
+    "collectPoints": 14,
+    "tickMs": 800,
+    "lanes": 3,
+    "hazardEvery": 5,
+    "distancePoints": 7
+  },
+  "presentation": {
+    "player": "bunny",
+    "collectible": "star",
+    "hazard": "storm",
+    "instruction": "Swipe between lanes to collect safely."
+  },
+  "progression": {
+    "starsForClear": 3,
+    "achievement": "color-lane-first-clear"
   }
 }
