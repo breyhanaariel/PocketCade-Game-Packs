@@ -1,17 +1,54 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "word-warren",
   "title": "Word Warren",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "engineFamily": "wordTrivia",
   "distribution": "downloadable",
   "seed": 17,
   "rules": {
-    "rounds": {
-      "easy": 4,
-      "normal": 8,
-      "hard": 12
-    },
-    "variant": 1
+    "targetScore": 80,
+    "lives": 4,
+    "maxMoves": 27,
+    "collectPoints": 14,
+    "questions": [
+      {
+        "prompt": "Which word belongs in Bunny's arcade?",
+        "answers": [
+          "Arcade",
+          "Ocean",
+          "Desert"
+        ],
+        "correct": "Arcade"
+      },
+      {
+        "prompt": "Which one shines at night?",
+        "answers": [
+          "Star",
+          "Carrot",
+          "Button"
+        ],
+        "correct": "Star"
+      },
+      {
+        "prompt": "What does Bunny collect?",
+        "answers": [
+          "Stars",
+          "Storms",
+          "Locks"
+        ],
+        "correct": "Stars"
+      }
+    ]
+  },
+  "presentation": {
+    "player": "bunny",
+    "collectible": "word",
+    "hazard": "moth",
+    "instruction": "Choose the correct answer."
+  },
+  "progression": {
+    "starsForClear": 3,
+    "achievement": "word-warren-first-clear"
   }
 }
