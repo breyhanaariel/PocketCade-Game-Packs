@@ -1,17 +1,27 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "hedge-hop",
   "title": "Hedge Hop",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "engineFamily": "grid",
   "distribution": "downloadable",
   "seed": 22,
   "rules": {
-    "rounds": {
-      "easy": 4,
-      "normal": 8,
-      "hard": 12
-    },
-    "variant": 2
+    "targetScore": 80,
+    "lives": 3,
+    "maxMoves": 30,
+    "collectPoints": 12,
+    "width": 3,
+    "height": 3
+  },
+  "presentation": {
+    "player": "bunny",
+    "collectible": "sprout",
+    "hazard": "storm",
+    "instruction": "Find the highlighted safe tile."
+  },
+  "progression": {
+    "starsForClear": 3,
+    "achievement": "hedge-hop-first-clear"
   }
 }
