@@ -4,6 +4,10 @@ Public, data-only game package catalog for PocketCade.
 
 This repository intentionally contains **no PocketCade application source code, executable Dart, or credentials**. PocketCade keeps trusted reusable game engines and renderers in the private app repository and downloads versioned JSON definitions from here.
 
+## Development release policy
+
+The current game definitions are milestone/test content and intentionally use pre-1.0 game versions such as `0.7.0-dev.1`. The package `schemaVersion` describes the JSON contract and is independent of the game's release version. Final production games will receive game version `1.0.0` only after PocketCade and the game content are complete and release-validated.
+
 ## Schema v2
 
 Each canonical game definition now supplies:
