@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "memory-match",
+  "title": "Memory Match",
+  "version": "1.0.0",
+  "engineFamily": "matching",
+  "distribution": "bundled",
+  "seed": 2,
+  "rules": {
+    "rounds": {
+      "easy": 4,
+      "normal": 8,
+      "hard": 12
+    },
+    "variant": 2
+  }
+}
