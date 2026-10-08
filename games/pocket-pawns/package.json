@@ -1,17 +1,25 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "pocket-pawns",
   "title": "Pocket Pawns",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "engineFamily": "boardTurn",
   "distribution": "downloadable",
   "seed": 25,
   "rules": {
-    "rounds": {
-      "easy": 4,
-      "normal": 8,
-      "hard": 12
-    },
-    "variant": 1
+    "targetScore": 60,
+    "lives": 4,
+    "maxMoves": 27,
+    "collectPoints": 12
+  },
+  "presentation": {
+    "player": "pawn",
+    "collectible": "star",
+    "hazard": "storm",
+    "instruction": "Choose the best highlighted move."
+  },
+  "progression": {
+    "starsForClear": 3,
+    "achievement": "pocket-pawns-first-clear"
   }
 }
