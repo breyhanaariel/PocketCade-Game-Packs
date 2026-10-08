@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "swipe-to-survive",
+  "title": "Swipe to Survive",
+  "version": "1.0.0",
+  "engineFamily": "runnerPlatform",
+  "distribution": "bundled",
+  "seed": 3,
+  "rules": {
+    "rounds": {
+      "easy": 4,
+      "normal": 8,
+      "hard": 12
+    },
+    "variant": 3
+  }
+}
