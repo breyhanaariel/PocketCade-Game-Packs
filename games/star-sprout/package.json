@@ -2,7 +2,7 @@
   "schemaVersion": 2,
   "id": "star-sprout",
   "title": "Star Sprout",
-  "version": "2.0.0",
+  "version": "0.7.0-dev.1",
   "engineFamily": "catchDodge",
   "distribution": "downloadable",
   "seed": 6,
