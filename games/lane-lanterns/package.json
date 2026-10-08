@@ -2,7 +2,7 @@
   "schemaVersion": 2,
   "id": "lane-lanterns",
   "title": "Lane Lanterns",
-  "version": "2.0.0",
+  "version": "0.7.0-dev.1",
   "engineFamily": "lane",
   "distribution": "downloadable",
   "seed": 11,
