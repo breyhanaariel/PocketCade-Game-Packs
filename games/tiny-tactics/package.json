@@ -1,17 +1,25 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "tiny-tactics",
   "title": "Tiny Tactics",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "engineFamily": "boardTurn",
   "distribution": "downloadable",
   "seed": 12,
   "rules": {
-    "rounds": {
-      "easy": 4,
-      "normal": 8,
-      "hard": 12
-    },
-    "variant": 4
+    "targetScore": 80,
+    "lives": 3,
+    "maxMoves": 24,
+    "collectPoints": 10
+  },
+  "presentation": {
+    "player": "pawn",
+    "collectible": "star",
+    "hazard": "storm",
+    "instruction": "Choose the best highlighted move."
+  },
+  "progression": {
+    "starsForClear": 3,
+    "achievement": "tiny-tactics-first-clear"
   }
 }
