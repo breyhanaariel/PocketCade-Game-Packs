@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "hedge-hop",
+  "title": "Hedge Hop",
+  "version": "1.0.0",
+  "engineFamily": "grid",
+  "distribution": "downloadable",
+  "seed": 22,
+  "rules": {
+    "rounds": {
+      "easy": 4,
+      "normal": 8,
+      "hard": 12
+    },
+    "variant": 2
+  }
+}
