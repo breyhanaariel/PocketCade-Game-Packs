@@ -49,11 +49,11 @@
     {
       "id": "star-sprout",
       "title": "Star Sprout",
-      "version": "0.7.0-dev.1",
+      "version": "0.7.1",
       "engineFamily": "catchDodge",
       "distribution": "downloadable",
-      "url": "https://raw.githubusercontent.com/breyhanaariel/PocketCade-Game-Packs/main/games/star-sprout/package.json",
-      "sha256": "20ef965d31a5e932787fa29f01e978ae2566e614b89fe21b8c03c9b93eb74197"
+      "url": "https://raw.githubusercontent.com/breyhanaariel/PocketCade-Game-Packs/main/releases/star-sprout/0.7.1/package.json",
+      "sha256": "ddd2130284cfd00ed6fd5bafa2ff947dcf004847c45c3bebe9d57706e12b0a35"
     },
     {
       "id": "bunny-bounce",
