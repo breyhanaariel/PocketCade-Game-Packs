@@ -1,0 +1,29 @@
+﻿{
+    "schemaVersion":  2,
+    "id":  "star-sprout",
+    "title":  "Star Sprout",
+    "version":  "0.7.1",
+    "engineFamily":  "catchDodge",
+    "distribution":  "downloadable",
+    "seed":  6,
+    "rules":  {
+                  "targetScore":  70,
+                  "lives":  3,
+                  "maxMoves":  30,
+                  "collectPoints":  10,
+                  "tickMs":  900,
+                  "lanes":  3,
+                  "hazardEvery":  3,
+                  "distancePoints":  5
+              },
+    "presentation":  {
+                         "player":  "sprout",
+                         "collectible":  "star",
+                         "hazard":  "storm",
+                         "instruction":  "Swipe into collectibles and away from hazards."
+                     },
+    "progression":  {
+                        "starsForClear":  3,
+                        "achievement":  "star-sprout-first-clear"
+                    }
+}
